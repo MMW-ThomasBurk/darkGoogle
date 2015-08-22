@@ -60,9 +60,12 @@ div.sfbgg{
 	border:none !important;
 }
 
-#res a, .med a, #nav a{
+/* #res a, */ .med a, #nav a{
 	color:#5EA9DE !important;
 	background: #444 !important;
+}
+/* #res a, */ .med a:visited, #nav a:visited{
+	color: #A392F9 !important;
 }
 
 
@@ -96,9 +99,18 @@ ol#ab_ctls a.selected{
 	background: #999 !important;
 }
 
-.gb_4a, .gb_xa, #gb a.gb_fa, .xpdopen{
-	background: #777 !important;
+.gb_4a, .gb_xa, #gb a.gb_fa, .xpdopen, #rhs .kp-blk{
+	background: #666 !important;
 }
+._cgc, ._wD{
+	color: #333 !important;
+}
+._wD:hover{
+	background: #444 !important;
+	color:#eee;
+}
+
+
 .gb_va .gb_ia, .gb_Z{
 	background: #444 !important;
 	border: none !important;
@@ -120,4 +132,37 @@ ol#ab_ctls a.selected{
 
 #hdtb .hdtb-mitem a:hover{
 	color:#999 !important;
+}
+
+
+#hdtbMenus.hdtb-td-o{
+	background: #444 !important;
+}
+#hdtb-msb .hdtb-tl-sel, #hdtb-msb .hdtb-tl-sel:hover, .hdtbItm, .hdtbU{
+	background: #444 !important
+}
+.hdtbItm:hover{
+	background: #333 !important;
+}
+#hdtb-more-mn a:hover, .hdtbItm.hdtbSel:hover, .hdtbItm a:hover, #cdrlnk:hover{
+	background: #333 !important;
+}
+#hdtb-tls:hover{
+	background: #333 !important;
+}
+
+.hdtbItm label:hover, .hdtbItm a:hover, #hdtb-more-mn a:hover, #hdtb .hdtb-mitem a:hover, .hdtb-mn-hd:hover, #hdtb-more:hover, #hdtb-tls:hover{
+	color:#eee !important;
+}
+
+
+
+.rg_fbl{
+	border:none !important;
+}
+
+.rg_fbl:hover{
+	border:none !important;
+	background: #333 !important;
+	box-shadow: none!important;
 }

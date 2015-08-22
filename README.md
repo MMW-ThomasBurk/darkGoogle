@@ -15,3 +15,9 @@ As a web developper I use sublime text to edit my code with its dark theme. The 
 * open chrome at `chrome://extensions/`
 * in developper mode, open the none packed extension
 * go to the google website of make a google search
+
+## Todo
+
+* activation/disactivation button
+* improve image page
+* ... a lot of things you'll ask me to do :)
