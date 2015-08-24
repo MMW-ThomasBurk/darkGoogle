@@ -1,5 +1,5 @@
 # darkGoogle
-Chrome extension to change google design
+Chrome extension to change google design and keep your eyes healthy.
 
 ## Why
 As a web developper I use sublime text to edit my code with its dark theme. The problem is that I realy often need to look for help on google and going from a dark to a white page can hurt my eyes. I decided to change that and make google more comfortable to use.
